@@ -1,2 +1,3 @@
 #!/bin/bash
+mkdir -p /tmp/my_first_directory
 cp -u *.html /tmp/my_first_directory/
