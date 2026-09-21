@@ -1,2 +1,2 @@
 #!/bin/bash
-install -D -t /tmp/my_first_directory *.html
+cp *.html /tmp/my_first_directory/
