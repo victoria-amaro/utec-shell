@@ -1,1 +1,1 @@
-# Repositorio de Shell - UTEC
+# utec-shell
