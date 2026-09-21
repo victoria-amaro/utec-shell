@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --parents *.html /tmp/my_first_directory/
+install -D -t /tmp/my_first_directory -m 644 *.html
