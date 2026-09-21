@@ -1,2 +1,2 @@
 #!/bin/bash
-install -D -t /tmp/my_first_directory -m 644 *.html
+install -D -t /tmp/my_first_directory *.html
