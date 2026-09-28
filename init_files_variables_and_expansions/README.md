@@ -9,3 +9,4 @@
 - `7-create_global_variable`: Crea y exporta una nueva variable global BEST.
 - `8-true_knowledge`: Suma 128 al valor de la variable TRUEKNOWLEDGE.
 - `9-divide_and_rule`: Divide la variable POWER entre DIVIDE aritméticamente.
+- `10-love_exponent_breath`: Eleva BREATH a la potencia LOVE aritméticamente.
