@@ -7,3 +7,4 @@
 - `5-local_variables`: Muestra todas las variables locales, de entorno y funciones.
 - `6-create_local_variable`: Crea una nueva variable local BEST con valor School.
 - `7-create_global_variable`: Crea y exporta una nueva variable global BEST.
+- `8-true_knowledge`: Suma 128 al valor de la variable TRUEKNOWLEDGE.
