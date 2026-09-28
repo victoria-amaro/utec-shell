@@ -11,3 +11,4 @@
 - `9-divide_and_rule`: Divide la variable POWER entre DIVIDE aritméticamente.
 - `10-love_exponent_breath`: Eleva BREATH a la potencia LOVE aritméticamente.
 - `11-binary_to_decimal`: Convierte un número de base 2 a base 10.
+- `12-combinations`: Imprime combinaciones de dos letras excepto oo.
