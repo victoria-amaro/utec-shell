@@ -3,3 +3,4 @@
 - `1-hello_you`: Imprime un saludo personalizado con el usuario actual.
 - `2-path`: Añade /action al final de la variable PATH.
 - `3-paths`: Cuenta el número de directorios en el PATH.
+- `4-global_variables`: Muestra las variables globales de entorno.
